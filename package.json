@@ -1,0 +1,19 @@
+{
+  "name": "debounce",
+  "version": "1.0.0",
+  "description": "Get a simple debounce function for your typescript project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Broekhart/Debounce.git"
+  },
+  "author": "Broekhart",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Broekhart/Debounce/issues"
+  },
+  "homepage": "https://github.com/Broekhart/Debounce#readme"
+}
